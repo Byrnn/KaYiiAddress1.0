@@ -1,0 +1,41 @@
+{
+  "pages": [
+          "pages/ucenter/account/account",
+
+          "pages/ucenter/accountUpdate/accountUpdate",
+         
+          "pages/ucenter/accountAdd/accountAdd",
+      
+     
+  
+
+  
+
+
+    
+     
+
+      "pages/newAddre/newAddre",
+      "pages/cleanOrder/cleanOrder",
+      "pages/chooseAddre/chooseAddre",
+        
+
+
+
+  
+
+     
+  "pages/index2/index2",
+  "pages/index/index",
+      
+
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,6 @@
+<view  wx:for="{{list}}" wx:for-item="item">
+        
+{{item.name}}
+{{item.inputPhoneNum}}
+
+</view>

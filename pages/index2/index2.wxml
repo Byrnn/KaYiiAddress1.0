@@ -1,0 +1,4 @@
+姓名:<input bindinput="inputName" ></input>
+电话号码:<input bindinput="inputPhoneNum" ></input>
+
+<button bindtap="sendMes">发送信息</button>
